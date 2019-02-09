@@ -1,8 +1,8 @@
 # g2KM
 
 ## MN KM
-* Involved Apps: [MarginNote(MN)](), [Notebooks](), [KeyBoard Maestro]().
-* Reference: [A video on Bilibili.com]() & [An article on sspai.com]()
+* Involved Apps: [MarginNote(MN)](https://www.marginnote.com/), [Notebooks](https://www.notebooksapp.com/), [KeyBoard Maestro](https://www.keyboardmaestro.com/main/).
+* Reference: [a video on Bilibili.com](https://www.bilibili.com/video/av27670825/) & [an article on sspai.com](https://sspai.com/post/43758)
 * Purpose: I want to exerpt some **key concepts** from the chapters I read on MN to a more condensed app, for which i use Notebooks.
 
 ### The .zip file contains three Macros:
